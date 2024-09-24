@@ -1,6 +1,6 @@
 # ECG_Denoising
 This repository contains the Matlab implementation code for our IEEE TENCON paper:
-** Ashish Verma, Pratik, Gayadhar Pradhan. Electrocardiogram denoising using Wavelet decomposition and EMD domain filtering. **
+** Ashish Verma, Pratik, Gayadhar Pradhan. Electrocardiogram denoising using Wavelet decomposition and EMD domain filtering.**
 
 ## Run Codes
 
