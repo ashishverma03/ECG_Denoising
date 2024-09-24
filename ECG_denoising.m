@@ -3,7 +3,7 @@
 % proceedings of 2016 IEEE Region 10 Conference (TENCON). If you are using the
 % code for any educational purpose then please cite the paper.
 % Author: Ashish Verma
-load('100m.mat');
+load('/inputs/100m.mat');
 x=val;
 Lt=2000;
 x1= x(1,1:Lt);
